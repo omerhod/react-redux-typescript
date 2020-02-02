@@ -1,7 +1,7 @@
 import * as React from "react";
 import { hot } from "react-hot-loader/root";
 import { connect } from "react-redux";
-import { fetchPosts } from "../store/posts/actions";
+import { fetchPosts } from "./store/posts/actions";
 import UserHeader from "./UserHeader";
 
 interface Post {

@@ -1,7 +1,7 @@
 import * as React from "react";
 import { hot } from "react-hot-loader/root";
 import { connect } from "react-redux";
-import { fetchUser } from "../store/users/actions";
+import { fetchUser } from "./store/users/actions";
 
 interface Props {
   user?: { name: string; id: number };

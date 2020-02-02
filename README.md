@@ -1,2 +1,1 @@
-# react-redux-typescript
- A boilerplate for Express &amp; MongoDB
+# A React & Redux setup using Typescript
