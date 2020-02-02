@@ -3,7 +3,7 @@ import * as ReactDOM from "react-dom";
 import { Provider } from "react-redux";
 import configureStore from "./store";
 
-import App from "./UserHeader";
+import App from "./App";
 
 const mountNode = document.getElementById("app");
 ReactDOM.render(

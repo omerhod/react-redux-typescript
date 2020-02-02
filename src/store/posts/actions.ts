@@ -1,4 +1,4 @@
-import jsonPlaceholder from "../../src/apis/jsonPlaceholder";
+import jsonPlaceholder from "../../apis/jsonPlaceholder";
 import { Dispatch } from "react";
 
 export const fetchPosts = () => async (
